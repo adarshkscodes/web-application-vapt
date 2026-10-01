@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Local secrets / session artifacts
+.env
+*.pem
+*.key
+*.token
+
+# Burp project files
+*.burp
